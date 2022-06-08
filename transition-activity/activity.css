@@ -1,1 +1,11 @@
+button {
+    background-color: transparent;
+    border: none;
+    border-radius: 100px;
+    transition: all .5s ease-in-out;
+}
 
+button:hover {
+    background-color: rgba(85, 116, 255, .75);
+    color: white;
+}
